@@ -1,2 +1,1 @@
-# Personal_Cloud_Server
-A Personal Cloud Server built in C and C++ with a focus on privacy 
+This is a command-line-based personal cloud server built in C and C++ with a focus on privacy
